@@ -60,5 +60,7 @@ The **Robotics Lab Monitoring Platform** is a data-driven system designed to mon
     ```bash
    pip install pyspark firebase-admin paho-mqtt
     ```
+
+    
 4.Execute on Databricks:
 Import the notebooks to your Databricks Workspace to run the distributed Spark jobs.
